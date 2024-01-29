@@ -13,7 +13,6 @@ int prefix_sum(int ary[], int length) {
     return sum;
 }
 
-
 // returns true if prefix sum of ary is never negative
 bool non_neg_prefix_sum(int ary[], int length) {
 
